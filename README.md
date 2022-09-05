@@ -1,9 +1,9 @@
-**negrito**Estudo realizado
+**Estudo realizado**
 
 
 Instalação do Git
 
-Criando conta no GitHub
+Criando uma conta no GitHub
 
 Iniciando o Git
 
